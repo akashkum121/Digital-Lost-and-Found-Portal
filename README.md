@@ -71,9 +71,9 @@ Digital-Lost-Found-Portal
 * Home Page
   ![Home Page](https://github.com/akashkum121/Digital-Lost-and-Found-Portal/blob/main/Home_page.png)
 * Report&Found Lost Item Form
-* ![Report&Found Lost]
+  ![Report&Found Lost](https://github.com/akashkum121/Digital-Lost-and-Found-Portal/blob/main/Report_%26_Found.png)
 * Item Details Page
-* ![Item Details](https://github.com/akashkum121/Digital-Lost-and-Found-Portal/blob/main/My_items.png)
+  ![Item Details](https://github.com/akashkum121/Digital-Lost-and-Found-Portal/blob/main/My_items.png)
 
 ---
 
