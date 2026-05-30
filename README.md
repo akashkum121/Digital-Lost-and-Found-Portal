@@ -1,6 +1,3 @@
-
----
-
 # 🔍 Digital Lost & Found Portal
 
 ## 📌 Project Overview
@@ -90,6 +87,3 @@ Digital-Lost-Found-Portal
 
 Akash Kumar
 
----
-✅ I can **add GitHub badges + deployment section**
-✅ Or make it **ATS-friendly for project portfolio** 👍
