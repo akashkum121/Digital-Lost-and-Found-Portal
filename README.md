@@ -69,9 +69,11 @@ Digital-Lost-Found-Portal
 ## 📸 Screenshots
 
 * Home Page
-  ![Eye Tracking](https://github.com/akashkum121/Digital-Lost-and-Found-Portal/blob/main/Home_page.png)
+  ![Home Page](https://github.com/akashkum121/Digital-Lost-and-Found-Portal/blob/main/Home_page.png)
 * Report&Found Lost Item Form
+* ![Report&Found Lost]
 * Item Details Page
+* ![Item Details]
 
 ---
 
